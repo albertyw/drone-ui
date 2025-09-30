@@ -22,7 +22,7 @@
     "@monaco-editor/react": "^4.2.2",
     "@projectstorm/react-diagrams": "^6.0.1-beta.7",
     "ansi_up": "^4.0.4",
-    "axios": "^0.21.0",
+    "axios": "^0.30.2",
     "classnames": "^2.2.6",
     "closest": "0.0.1",
     "dagre": "^0.8.5",
