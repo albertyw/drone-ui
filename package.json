@@ -27,7 +27,7 @@
     "adaptivecards-react": "^1.0.0",
     "adaptivecards-templating": "^2.1.0",
     "ansi_up": "^4.0.4",
-    "axios": "^0.21.4",
+    "axios": "^1.13.5",
     "classnames": "^2.2.6",
     "closest": "0.0.1",
     "dagre": "^0.8.5",
